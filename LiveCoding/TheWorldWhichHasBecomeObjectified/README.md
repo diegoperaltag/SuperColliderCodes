@@ -53,8 +53,8 @@ Below is a recommended set of instructions for performing the piece or exploring
 4. **Parameter Exploration**: <br/>
  Many proxies accept arguments. For example:
 
- `~sig2.set(\rate, 0.3, \modRate, 5);`<br/>
- `~z.set(\freq, 150);`
+  `~sig2.set(\rate, 0.3, \modRate, 5);`<br/>
+  `~z.set(\freq, 150);`
  
  You are encouraged to explore these parameters in real time, adjusting density, frequency, or modulation behavior to shape the sonic landscape.
  
