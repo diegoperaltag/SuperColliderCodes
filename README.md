@@ -1,4 +1,4 @@
-# Welcome to my SuperCollider Patches Repository
+# Welcome to my SuperCollider Codes Repository
 ---
 This repository contains a growing collection of my SuperCollider patches, ranging from live coding performances and generative sketches to experimental sound studies. All patches are written and shared with the intention of open collaboration, learning, and sonic exploration.
 
