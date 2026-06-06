@@ -5,9 +5,11 @@
 
 ---
 
+***[Download the patch and necessary files here.](https://drive.google.com/drive/folders/1YmyqcZIq1Y-oMmhM0D6qlCG5m_3nXZ2W?usp=sharing)***
+
 ## Overview
 
-[This patch](https://drive.google.com/drive/folders/1YmyqcZIq1Y-oMmhM0D6qlCG5m_3nXZ2W?usp=sharing) controls all electronics for the piece. It is a single SuperCollider file that, once opened and executed, launches a graphical interface from which the operator can run the piece in full. The total duration of the electronics is **8 minutes and 15 seconds**, divided into 10 cues that layer and accumulate over time.
+This patch controls all electronics for the piece. It is a single SuperCollider file that, once opened and executed, launches a graphical interface from which the operator can run the piece in full. The total duration of the electronics is **8 minutes and 15 seconds**, divided into 10 cues that layer and accumulate over time.
 
 The patch requires no knowledge of SuperCollider to operate. Everything is controlled from the GUI. However, the performers are encouraged to have some sort of familiarity with the software. 
 
